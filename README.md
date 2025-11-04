@@ -8,8 +8,7 @@ As a student immersed in the dynamic world of software development and machine l
 
 * 🌍  I'm based in India.
 * ✉️  You can contact me at [sankalpnikam1506@gmail.com](mailto:sankalpnikam1506@gmail.com)
-* 🧠  I'm learning Data Structures and Algorithms, Machine Learning and Data Science.
-* ⚡  One Piece is my favourite anime.
+* 🧠  I'm learning Data Structures and Algorithms, Product Management, System Design, Machine Learning and Data Science.
 
 ### Skills
 
